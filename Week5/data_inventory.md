@@ -1,7 +1,7 @@
 # Data Inventory
 
 ## Project
-Mars on Earth: การระบุพื้นที่แห้งแล้งและพืชพรรณต่ำในภาคตะวันออกเฉียงเหนือของประเทศไทยด้วยข้อมูลรีโมตเซนซิง
+การวิเคราะห์ความเหมาะสมของพื้นที่เพื่อจัดตั้งสถานีวิจัยจำลองดาวอังคารในภาคตะวันออกเฉียงเหนือ
 
 | Dataset | Source / Collection | Temporal Coverage Used | Variable / Band | Used for | Limitation | Feasibility Check |
 |---|---|---|---|---|---|---|
